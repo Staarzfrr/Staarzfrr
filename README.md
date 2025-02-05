@@ -1,4 +1,4 @@
-# ddoxxed.
+[![Discord Presence](https://lanyard.cnrad.dev/api/692451701348892773?bg=&borderRadius=10&theme=dark&idleMessage=Staarz%20is%20a%20dev%3F&showDisplayName=true&hideStatus=true)](https://discord.com/users/692451701348892773)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Staarzfrr&color=blueviolet)
 
