@@ -20,6 +20,8 @@ Im a Dev In Python , Js , CSS , C++  & HTML
 
 ## 🧩 What I'm Learning
 - BackEnd
+- C#
+- Go
 
 ---
 
